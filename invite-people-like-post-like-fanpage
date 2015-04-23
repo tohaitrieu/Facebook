@@ -1,0 +1,4 @@
+javascript:var inputs = document.querySelectorAll('a._42ft._4jy0._4jy3._517h');
+for(var i=1; i<inputs.length;i++) {
+inputs[i].click();
+}
